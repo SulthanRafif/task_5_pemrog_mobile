@@ -4,4 +4,6 @@
     <string name="breaking_news">Breaking News</string>
     <string name="saved_news">Saved News</string>
     <string name="search_news">Search News</string>
+    <string name="favorite_button_function">To add favorites articles</string>
+    <string name="hint_search">Search…</string>
 </resources>
