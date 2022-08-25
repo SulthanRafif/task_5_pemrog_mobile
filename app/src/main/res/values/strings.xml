@@ -6,4 +6,9 @@
     <string name="search_news">Search News</string>
     <string name="favorite_button_function">To add favorites articles</string>
     <string name="hint_search">Search…</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="published_at">PUBLISHED AT</string>
+    <string name="image_desc">Image for article</string>
 </resources>
